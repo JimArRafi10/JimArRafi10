@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimarrafi10&label=Profile%20views&color=0e75b6&style=flat" alt="jimarrafi10" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Kotlin**
 
-- 🌱 I’m currently learning **Kotlin,Flutter and Tensorflow**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
 - 📫 How to reach me **jimarrafi10@gmail.com**
 
