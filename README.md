@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jimarrafi10@gmail.com**
 
-- ⚡ Fun fact **Spit on the sky and run :)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
