@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jim Ar Rafi</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jimarrafi10&label=Profile%20views&color=0e75b6&style=flat" alt="jimarrafi10" /> </p>
-
 - 🔭 I’m currently working on **Kotlin**
 
 - 🌱 I’m currently learning **Python and Machine Learning**
