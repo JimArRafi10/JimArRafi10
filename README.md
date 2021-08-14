@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jim Ar Rafi</h1>
 
 
-- 🔭 I’m currently working on **Kotlin**
-
-- 🌱 I’m currently learning **Python and Machine Learning**
-
-- 📫 How to reach me **jimarrafi10@gmail.com**
+- 🔭 I’m currently working on **Android Native**
+- 
+- 📫 How to reach me 
 
 
 
