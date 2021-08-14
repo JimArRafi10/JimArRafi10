@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Android Native**
 
-- 📫 How to reach me 
-
 
 
 <h3 align="left">Connect with me:</h3>
