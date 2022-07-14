@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jim Ar Rafi</h1>
 
 
-- 🔭 I’m currently working on **Full Stack Web Dev**
 - 🌱: I’m currently learning Data Structure and Algorithm. 🧠💻🤖
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
 - 🤔 I’m looking for help with Open source Contribution. 
-- 💬: Ask me about Android,MERN,Machine Learning.
+- 💬: Ask me about Android,Machine Learning.
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I play Soccer! ⚽
 
