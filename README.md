@@ -2,10 +2,9 @@
 
 
 - 🌱: I’m currently learning Data Structure and Algorithm. 🧠💻🤖
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developers.
 - 🤔 I’m looking for help with Open source Contribution. 
-- 💬: Ask me about Android,Machine Learning.
-- 😄  Pronouns: He/His
+- 💬: Ask me about Flutter, Android,Machine Learning
 - ⚡  Fun fact: I play Soccer! ⚽
 
 <p style="display: inline-block;" align="center">
